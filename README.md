@@ -1,16 +1,21 @@
-# aprendizado-dados-
-"Exercícios diários de SQL e lógica de programação - Focada em Engenharia de Dados."
-SQL
--- Script de acompanhamento de evolução técnica
--- Criado para o desafio Thomson Reuters
+# 📊 Jornada de Engenharia de Dados
 
-CREATE TABLE Evolucao_Carreira (
-    Habilidade VARCHAR(50),
-    Nivel_Conhecimento VARCHAR(20)
-);
+Bem-vindo ao meu repositório de estudos! Aqui registro minha evolução diária em SQL e Lógica de Programação, com foco total em me tornar uma Engenheira de Dados.
 
-INSERT INTO Evolucao_Carreira VALUES ('Lógica de Programação', 'Em Construção');
-INSERT INTO Evolucao_Carreira VALUES ('SQL Básico', 'Iniciante');
-INSERT INTO Evolucao_Carreira VALUES ('Engenharia de Dados', 'Estudando');
+## 🚀 O que estou aprendendo agora?
+Atualmente estou focada em dominar a estrutura de bancos de dados relacionais e manipulação de dados (DML/DDL).
 
-SELECT * FROM Evolucao_Carreira;
+### 🛠️ Comandos que já domino:
+- `CREATE TABLE`: Para criar a estrutura das tabelas.
+- `INSERT INTO`: Para alimentar o banco com informações.
+- `SELECT`: Para consultar e visualizar os dados.
+
+### 📈 Meu Cronograma de Estudos (Meta: Meio do Ano)
+- [x] Estrutura Básica e Inserção de Dados
+- [ ] Filtros e Condicionais (`WHERE`, `LIKE`, `AND/OR`)
+- [ ] Funções de Agregação (`SUM`, `AVG`, `COUNT`)
+- [ ] Agrupamentos (`GROUP BY`, `HAVING`)
+- [ ] **O Grande Desafio:** Relacionamentos entre Tabelas (`JOINs`)
+
+---
+*"A consistência é o que transforma o aprendizado em maestria."*                                                                
